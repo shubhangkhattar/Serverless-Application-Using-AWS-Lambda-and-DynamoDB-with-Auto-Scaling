@@ -1,2 +1,2 @@
 # Serverless-Application-Using-AWS-Lambda-and-DynamoDB-with-Auto-Scaling
-Explored the distributed properties of several serverless functionalities of AWS such as AWS DynamoDB and lambda
+Developed a serverless application capable of performing CRUD operations on a given database, using DynamoDB as NO-SQL database, AWS lambda for middleware processes and react for front-end. The application demonstrated distributed system features such as autoscaling, replication, fault tolerance, partition of data and consistency in the serverless application. 
